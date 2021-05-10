@@ -1,0 +1,11 @@
+Immerisve Engineering:
+- disabled Copper, Lead, Nickel, Silver
+
+Mekanism:
+- disabled Copper, Lead, Tin, Uranium
+
+Create
+- disabled Copper
+
+Adv Rocketry
+- disabled Copper, Tin
